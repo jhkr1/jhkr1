@@ -64,5 +64,5 @@
 - 🔗 GitHub: [github.com/jhkr1](https://github.com/jhkr1)
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jhkr1&count_bg=%2376CA1E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhkr1&count_bg=%2376CA1E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false" alt="GitHub visit badge" />
 </p>
