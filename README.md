@@ -3,7 +3,7 @@
 <p align="center"><sub>Computer Science & Consumer Science @ Catholic University of Korea</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Explainable+AI+%7C+Forecasting+%7C+Social+Impact;Data+Science+for+People;Graduate+School+Prep+%28Spring+2026%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Interpretable+AI+%7C+Time-Series+Modeling+%7C+Social+Data;From+Model+to+Impact;Building+AI+that+Matters;Graduate+School+Applicant+·+Spring+2026" alt="Typing SVG" />
 </p>
 
 ---
