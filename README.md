@@ -20,8 +20,8 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, Java, SQL, C  
-- **Libraries**: Pandas, Scikit-learn, OpenCV, ARIMA, Matplotlib, Seaborn  
-- **Tools**: Git, GitHub, Notion, Tableau, AWS, Linux
+- **Libraries**: Pandas, Scikit-learn, OpenCV, Matplotlib, Seaborn  
+- **Tools**: Git, GitHub, Notion, Tableau, Linux
 
 ---
 
