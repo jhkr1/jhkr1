@@ -42,7 +42,7 @@
 
 - 📧 Email: wlgjs06061@naver.com  
 - 🧠 Notion Portfolio: [노션 이력서 보기](https://sunrise-gaura-2ce.notion.site/ae809ad7a3644961a1707ee78e6968ba)  
-- 💼 CV (PDF): (곧 추가 예정)  
+- 💼 CV (PDF):  [cv.pdf](https://github.com/user-attachments/files/21207155/cv.pdf)
 - 📍 GitHub: [github.com/jhkr1](https://github.com/jhkr1)
 
 <!-- 방문자 수 뱃지 -->
