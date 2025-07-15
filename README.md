@@ -26,8 +26,7 @@
 ---
 
 ## 💼 Selected Projects
-
-- [Heart Disease Prediction](https://github.com/jhkr1/Heart-Disease-Prediction) – Health data classification with SMOTE and threshold tuning  
+ 
 - [PythonOpenCV](https://github.com/jhkr1/PythonOpenCV) – Face detection using Haar Cascade with OpenCV  
 - [Vehicle InsuranceFraud Detection](https://github.com/jhkr1/DaySchool-Vehicle-InsuranceFraud-Detection-Hackathon) – Vehicle insurance fraud detection using machine learning models.
 - [Movie Recommendation System](https://github.com/jhkr1/PythonML-MovieRecommendationSystem) – Movie recommendation system using Python and machine learning algorithms.
