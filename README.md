@@ -101,15 +101,7 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhkr1&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhkr1&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhkr1&layout=compact&theme=dark&hide_border=true&title_color=58A6FF" />
-</p>
+## GitHub Contributions
 
 <p align="center">
   <picture>
