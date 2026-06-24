@@ -5,11 +5,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Data+Engineering;Explainable+Analysis+%26+Logical+Communication;Data-Driven+Problem+Solver" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhkr1&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
 ---
 
 ## About Me
