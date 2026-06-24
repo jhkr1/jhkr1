@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Data+Engineering;Explainable+Analysis+%26+Logical+Communication;Data-Driven+Problem+Solver" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhkr1&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
@@ -38,11 +41,11 @@
 
 ## Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> |
-| **Data Science & ML** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> |
-| **Web & DevOps** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,ts,js,c,pytorch,opencv,postgres,nextjs,react,fastapi,tailwind,git,github,linux&perline=8" />
+  </a>
+</p>
 
 ---
 
@@ -112,8 +115,19 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhkr1&show_icons=true&theme=nord&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhkr1&layout=compact&theme=nord&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhkr1&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jhkr1&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhkr1&layout=compact&theme=dark&hide_border=true&title_color=58A6FF" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhkr1/jhkr1/output/dist/github-contribution-grid-snake-blue.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhkr1/jhkr1/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhkr1/jhkr1/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
